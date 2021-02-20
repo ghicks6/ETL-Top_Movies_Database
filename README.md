@@ -1,7 +1,7 @@
 # ETL-project
 ## ETL Project
-### Justin, Michelle, and Grant
-### ETL Project: Movie Rating Data
+### Justin Ying, Michelle Davis, and Grant Hicks
+### ETL Project: Top Movies Database
 
 ### 3 Data Sources: (4 csv’s total)
 -IMDb movies extensive dataset from Kaggle (Grant) IMDb.csv
