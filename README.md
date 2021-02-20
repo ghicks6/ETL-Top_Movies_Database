@@ -1,5 +1,4 @@
 # ETL-project
-## ETL Project
 ### Justin Ying, Michelle Davis, and Grant Hicks
 ### ETL Project: Top Movies Database
 
